@@ -1,0 +1,12 @@
+{
+  "cardPOSInventoryHandlingTaskReference" : "CIHR6549",
+  "cardPOSDeviceSoftwareType" : "Type 1",
+  "cardPOSDeviceAcquiredDate" : "09-22-2018",
+  "cardPOSDeviceIdentifier" : "Device 1",
+  "cardPOSDeviceSoftwareVersion" : "1.0.0",
+  "cardPOSDeviceStatus" : "in production",
+  "cardPOSDeviceReference" : "CDRP9632",
+  "cardPOSDeviceType" : "Mobile",
+  "cardPOSRegistryOperatingSessionReference" : "COSR4568",
+  "cardPOSInventoryHandlingTaskRecord" : {}
+}

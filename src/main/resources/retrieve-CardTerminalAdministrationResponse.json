@@ -1,0 +1,5 @@
+{
+  "cardPOSTermainalRegistryConfiguration" : "Configuration 1",
+  "cardPOSRegistrySchedule" : "0 15 15 ? * *",
+  "cardPOSRegistryOperatingSessionReference" : "COSR4568"
+}

@@ -1,0 +1,11 @@
+{
+  "cardPOSRegistrationTaskRecord" : {},
+  "cardPOSDeviceConfiguration" : "Configuration 1",
+  "merchantLocation" : "Dallas",
+  "cardPOSDeviceStatus" : "testing",
+  "cardPOSRegistrationTaskReference" : "CRTR4599",
+  "cardPOSDeviceReference" : "CDR7896",
+  "merchantReference" : "MR1326",
+  "merchantType" : "Type 1",
+  "cardPOSRegistryOperatingSessionReference" : "COSR4568"
+}
